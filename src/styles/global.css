@@ -1,0 +1,13 @@
+#background{
+
+}
+
+#background .centro{
+  position: center;
+  height: 50vh;
+  width: 50vw;
+
+  background: #000;
+  
+
+}
